@@ -5,7 +5,7 @@
 This project is a **Personal Portfolio Website** developed to showcase my skills, projects, and professional profile.  
 The website serves as an online platform where visitors can learn about me, explore my work, and download my resume.
 
- 🚀 Features
+# 🚀 Features
 - About Me section
 - Skills and project showcase
 - Resume download option
