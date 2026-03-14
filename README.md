@@ -20,8 +20,5 @@ The website serves as an online platform where visitors can learn about me, expl
 2. Open the project folder.
 3. Run **index.html** in any web browser.
 
- 🔗 Link
-file:///C:/Users/Tilak/OneDrive/Desktop/portfolio/index.html#projects
-
  👨‍💻 Author
   **Thilak N Gowda**
