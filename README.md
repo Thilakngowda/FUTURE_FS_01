@@ -21,4 +21,5 @@ The website serves as an online platform where visitors can learn about me, expl
 3. Run **index.html** in any web browser.
 
  👨‍💻 Author
+  
   **Thilak N Gowda**
