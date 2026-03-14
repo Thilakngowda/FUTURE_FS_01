@@ -21,7 +21,7 @@ The website serves as an online platform where visitors can learn about me, expl
 2. Open the project folder.
 3. Run **index.html** in any web browser.
 
-**🔗Link
+🔗Link
 https://straightforward-white-u4bjzoltj2.edgeone.app/
 
  👨‍💻 Author
